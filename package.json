@@ -1,0 +1,24 @@
+{
+  "name": "ra-language-indonesian",
+  "version": "2.0.1",
+  "description": "Indonesian translations for React-Admin, the frontend framework for building admin applications on top of REST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronadi/ra-language-indonesian.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "translation"
+  ],
+  "author": "Ronadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronadi/ra-language-indonesian/issues"
+  },
+  "homepage": "https://github.com/ronadi/ra-language-indonesian#readme"
+}
