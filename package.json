@@ -1,6 +1,6 @@
 {
   "name": "ra-language-indonesian",
-  "version": "2.9.3",
+  "version": "3.4.1",
   "description": "Indonesian translations for React-Admin, the frontend framework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {
