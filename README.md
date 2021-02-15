@@ -1,6 +1,8 @@
-# ra-language-indonesian
+# Indonesian Messages for React-Admin
 
-Indonesian Translations for <a href='https://github.com/marmelab/react-admin'>React-Admin</a>, the frontend framework for building admin applications on top of REST services.
+Indonesian messages for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GraphQL services.
+
+[![react-admin-demo](https://marmelab.com/react-admin/img/react-admin-demo-still.png)](https://vimeo.com/268958716)
 
 # Installation
 
@@ -20,11 +22,11 @@ const messages = {
 
 const i18nProvider = polyglotI18nProvider((locale) => messages[locale])
 
-<Admin locale="id" i18nProvider={i18nProvider}>
+<Admin i18nProvider={i18nProvider}>
   ...
 </Admin>
 ```
 
 # License
 
-This translation is licensed under the <a href='https://github.com/ronadi/ra-language-indonesian/blob/master/LICENSE'>MIT Licence.</a>
+This translation is licensed under the [MIT License](https://github.com/ronadi/ra-language-indonesian/blob/master/LICENSE)
