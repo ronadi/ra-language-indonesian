@@ -1,10 +1,10 @@
 {
-  "name": "ra-language-indonesian",
+  "name": "ra-language-indonesian-new",
   "version": "3.12.2",
-  "description": "Indonesia messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "description": "Unofficial Indonesia messages new for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronadi/ra-language-indonesian.git"
+    "url": "git+https://github.com/danangekal/ra-language-indonesian-new.git"
   },
   "files": [
     "*.md",
@@ -19,7 +19,8 @@
     "build": "yarn run build-cjs && yarn run build-esm",
     "build-cjs": "rimraf ./lib && tsc",
     "build-esm": "rimraf ./esm && tsc --outDir esm --module es2015",
-    "watch": "tsc --outDir esm --module es2015 --watch"
+    "watch": "tsc --outDir esm --module es2015 --watch",
+    "prepublishOnly": "npm run build"
   },
   "keywords": [
     "react",
@@ -27,12 +28,12 @@
     "admin-on-rest",
     "translation"
   ],
-  "author": "Ronadi",
+  "author": "Danang Eko Alfianto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ronadi/ra-language-indonesian/issues"
+    "url": "https://github.com/danangekal/ra-language-indonesian/issues"
   },
-  "homepage": "https://github.com/ronadi/ra-language-indonesian#readme",
+  "homepage": "https://github.com/danangekal/ra-language-indonesian#readme",
   "dependencies": {
     "ra-core": "^3.12.2"
   },
