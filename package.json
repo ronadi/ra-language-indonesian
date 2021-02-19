@@ -1,6 +1,6 @@
 {
   "name": "ra-language-indonesian-new",
-  "version": "3.12.3",
+  "version": "3.12.4",
   "description": "Unofficial Indonesia messages new for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "repository": {
     "type": "git",
@@ -31,11 +31,11 @@
   "author": "Danang Eko Alfianto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danangekal/ra-language-indonesian/issues"
+    "url": "https://github.com/danangekal/ra-language-indonesian-new/issues"
   },
-  "homepage": "https://github.com/danangekal/ra-language-indonesian#readme",
+  "homepage": "https://github.com/danangekal/ra-language-indonesian-new#readme",
   "dependencies": {
-    "ra-core": "^3.12.2"
+    "ra-core": "^3.12.4"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
