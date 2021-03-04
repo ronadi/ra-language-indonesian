@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/danangekal/ra-language-indonesian-new#readme",
   "dependencies": {
-    "ra-core": "^3.12.4"
+    "ra-core": "^3.13.1"
   },
   "devDependencies": {
     "rimraf": "^3.0.2",
