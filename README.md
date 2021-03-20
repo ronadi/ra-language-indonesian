@@ -1,5 +1,10 @@
 # Indonesian Messages New for React-Admin
 
+![NPM](https://img.shields.io/npm/l/ra-language-indonesian-new?color=blue)
+![npm](https://img.shields.io/npm/v/ra-language-indonesian-new)
+![npm](https://img.shields.io/npm/dm/ra-language-indonesian-new)
+![npm](https://img.shields.io/npm/dt/ra-language-indonesian-new)
+
 Unofficial Indonesian messages new for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GraphQL services.
 
 Noted: this package for alternative [ra-language-indonesian](https://github.com/ronadi/ra-language-indonesian) from [ronadi](https://github.com/ronadi)
