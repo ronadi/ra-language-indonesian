@@ -14,7 +14,7 @@ Noted: this package for alternative [ra-language-indonesian](https://github.com/
 # Installation
 
 ```
-npm install --save ra-language-indonesian-new
+npm install --save ra-language-indonesian-new or yarn add ra-language-indonesian-new
 ```
 
 # Usage

@@ -134,10 +134,10 @@ query-string@^5.1.1:
     object-assign "^4.1.0"
     strict-uri-encode "^1.0.0"
 
-ra-core@^3.13.4:
-  version "3.13.4"
-  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-3.13.4.tgz#e023d04537c5accd3ac058c53427fdf316ca557e"
-  integrity sha512-9baz2bqlVvIIv8l3sUpBlrQ+IpUqeRjOUc7Da7oUYYU4qGn/si7yhI/d0I6N4PaFVNMRZDvtNx9+766bpqksAg==
+ra-core@^3.13.5:
+  version "3.13.5"
+  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-3.13.5.tgz#2b938e41e1561690c6a4a3a59830b71651766c6a"
+  integrity sha512-V/FKzKyDHtwjwvm03GMSxyvlq7dJ50qyUOb5LfZXFnCUHYW69xn8QVZ9hgFLfS0msqu4K3yAQI+CGlcyKrZVrg==
   dependencies:
     classnames "~2.2.5"
     date-fns "^1.29.0"
