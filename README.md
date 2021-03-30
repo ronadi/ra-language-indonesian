@@ -1,6 +1,6 @@
 # Indonesian Messages New for React-Admin
 
-![NPM](https://img.shields.io/npm/l/ra-language-indonesian-new?color=blue)
+![npm](https://img.shields.io/npm/l/ra-language-indonesian-new?color=blue)
 ![npm](https://img.shields.io/npm/v/ra-language-indonesian-new)
 ![npm](https://img.shields.io/npm/dm/ra-language-indonesian-new)
 ![npm](https://img.shields.io/npm/dt/ra-language-indonesian-new)
