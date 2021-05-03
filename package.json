@@ -1,6 +1,6 @@
 {
   "name": "ra-language-indonesian-new",
-  "version": "3.14.3",
+  "version": "3.15.0",
   "description": "Unofficial Indonesia messages new for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "repository": {
     "type": "git",
