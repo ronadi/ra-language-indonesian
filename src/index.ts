@@ -12,6 +12,7 @@ const indonesianMessages: TranslationMessages = {
       clone: 'Duplikat',
       confirm: 'Konfirmasi',
       create: 'Buat',
+      create_item: 'Buat %{item}',
       delete: 'Hapus',
       edit: 'Ubah',
       export: 'Ekspor',
@@ -131,6 +132,7 @@ const indonesianMessages: TranslationMessages = {
         'Tidak dapat memuat terjemahan untuk bahasa yang ditentukan',
       canceled: 'Aksi Telah dibatalkan',
       logged_out: 'Sesi Anda telah berakhir, harap sambungkan kembali.',
+      not_authorized: 'Anda tidak diizinkan untuk mengakses sumber daya ini.',
     },
     validation: {
       required: 'Wajib',
