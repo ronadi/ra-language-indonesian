@@ -22,6 +22,8 @@ const indonesianMessages: TranslationMessages = {
       remove: 'Hapus',
       save: 'Simpan',
       search: 'Mencari',
+      select_all: 'Pilih semua',
+      select_row: 'Pilih baris ini',
       show: 'Tampilkan',
       sort: 'Pengurutan',
       undo: 'Batalkan',
@@ -30,6 +32,9 @@ const indonesianMessages: TranslationMessages = {
       close: 'Tutup',
       open_menu: 'Buka menu',
       close_menu: 'Tutup menu',
+      update: 'Memperbarui',
+      move_up: 'Naik',
+      move_down: 'Turun',
     },
     boolean: {
       true: 'Ya',
@@ -74,15 +79,18 @@ const indonesianMessages: TranslationMessages = {
     message: {
       about: 'Tentang',
       are_you_sure: 'Apakah anda yakin?',
-      bulk_delete_content:
+      bulk_delete_content: 
         'Anda yakin ingin menghapus %{name} ini? |||| Anda yakin ingin menghapus %{smart_count} item ini?',
-      bulk_delete_title:
+      bulk_delete_title: 
         'Hapus %{name} |||| Hapus %{smart_count} %{name}',
+      bulk_update_content: 
+        'Anda yakin ingin memperbarui %{name} ini? |||| Anda yakin ingin memperbarui %{smart_count} item ini?',
+      bulk_update_title: 'Memperbarui %{name} |||| Memperbarui %{smart_count} %{name}',
       delete_content: 'Anda yakin ingin menghapus item ini?',
       delete_title: 'Hapus %{name} #%{id}',
       details: 'Detail',
       error:
-        "Terjadi kesalahan pada klien dan permintaan Anda tidak dapat diselesaikan.",
+        'Terjadi kesalahan pada klien dan permintaan Anda tidak dapat diselesaikan.',
       invalid_form: 'Formulir tidak valid, ada kesalahan. Silakan periksa kembali',
       loading: 'Halaman ini sedang memuat, silahkan tunggu sebentar',
       no: 'Tidak',
@@ -90,7 +98,7 @@ const indonesianMessages: TranslationMessages = {
         'Entah Anda mengetikkan URL yang salah, atau Anda memiliki link yang salah.',
       yes: 'Ya',
       unsaved_changes:
-        "Beberapa perubahan belum anda simpan. Anda yakin ingin mengabaikannya?",
+        'Beberapa perubahan belum anda simpan. Anda yakin ingin mengabaikannya?',
     },
     navigation: {
       no_results: 'Tidak ada hasil yang ditemukan',
